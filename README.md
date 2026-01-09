@@ -20,7 +20,7 @@ A simple todo application built with React and Vite.
 
 ## Live Demo
 
-You can view the live demo of the application [here](https://12sushree.github.io/todo/).
+You can view the live demo of the application [here](https://online-todo-manager.vercel.app/).
 
 ## Installation
 
